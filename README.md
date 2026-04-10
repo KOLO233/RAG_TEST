@@ -63,7 +63,7 @@
 
 ### 4.1 总体架构图
 
-(**正在绘制**)
+![image](https://github.com/KOLO233/RAG_TEST/blob/main/RAG_Test/images/Overview_test.png)
 
 ### 4.2 核心模块说明
 
